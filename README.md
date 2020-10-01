@@ -6,7 +6,7 @@ impart positive changes in the society. Coming from the background of embedded p
 Possesses a well-rounded knowledge in certain front-end technologies: <br>
 > ⚡ __HTML5__ <br>
 > ⚡ __CSS3__, __Sass__, __Bootstrap__, __React Styled Components__<br>
-> ⚡ __JaveScript__, __ReactJS__<br>
+> ⚡ __JavaScript__, __ReactJS__<br>
 <br>
 
 🎈 __Actively searching for internship and entry level front end developer positions.__
