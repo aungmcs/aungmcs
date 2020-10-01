@@ -13,7 +13,7 @@ Possesses a well-rounded knowledge in certain front-end technologies: <br>
 
 ### Places you can find me in: 
 ****
-- Detailed profile on [LinkedIn](linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
+- Detailed profile on [LinkedIn](https://linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
 - Tweet me [@aungmcs](https://twitter.com/aungmcs) 🔗
 - Check out my articles at [DEV.to](https://dev.to/aungmcs) ✍
 <!--
