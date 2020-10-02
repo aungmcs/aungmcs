@@ -11,7 +11,7 @@ Possesses a well-rounded knowledge in certain front-end technologies: <br>
 
 🎈 __Actively searching for internship and entry level front end developer positions.__
 
-### Places you can find me in 🗺: 
+## Places you can find me in 🗺: 
 ****
 - Detailed profile on [LinkedIn](https://linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
 - Tweet me [@aungmcs](https://twitter.com/aungmcs) 🔗
