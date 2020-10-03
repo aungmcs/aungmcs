@@ -4,8 +4,6 @@
 I am an aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
 impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional full stack developer.<br/>
 
-🎈 __Actively searching for internship and entry level front end developer positions.__
-
 ## Languages and Frameworks
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -24,6 +22,8 @@ impart positive changes in the society. Coming from the background of embedded p
 - Detailed profile on [LinkedIn](https://linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
 - Tweet me [@aungmcs](https://twitter.com/aungmcs) 🔗
 - Check out my articles at [DEV.to](https://dev.to/aungmcs) ✍
+
+<br/>
 <!--
 **aungmcs/aungmcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
