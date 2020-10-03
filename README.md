@@ -1,15 +1,24 @@
 ## Hi there 👋 This is Stephen 🔥
 ![Cover image](github-readme.png)
-<br><br>
+<br/><br/>
 I am an aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
-impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional full stack developer.<br>
-Possesses a well-rounded knowledge in certain front-end technologies: <br>
-> ⚡ __HTML5__ <br>
-> ⚡ __CSS3__, __Sass__, __Bootstrap__, __React Styled Components__<br>
-> ⚡ __JavaScript__, __ReactJS__<br>
-<br>
+impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional full stack developer.<br/>
 
 🎈 __Actively searching for internship and entry level front end developer positions.__
+
+## Languages and Frameworks
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="40px" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" />
+<img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="40px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img align="left" alt="Styled components" width="40px" src="https://www.styled-components.com/atom.png" />
+<img align="left" alt="bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
+
+<br/>
+<br/>
+<br/>
 
 ## Places you can find me in 🗺: 
 - Detailed profile on [LinkedIn](https://linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
