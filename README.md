@@ -13,6 +13,7 @@ impart positive changes in the society. Coming from the background of embedded p
 <img align="left" alt="React" width="40px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
 <img align="left" alt="Styled components" width="40px" src="https://www.styled-components.com/atom.png" />
 <img align="left" alt="bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
+<img align="left" alt="tailwindcss" width="40px" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png" />
 
 <br/>
 <br/>
