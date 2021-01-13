@@ -1,8 +1,8 @@
 ## Hi there 👋 This is Stephen 🔥
 ![Cover image](github-readme.png)
 <br/><br/>
-I am an aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
-impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional full stack developer.<br/>
+An aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
+impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional software engineer.<br/>
 
 ## Languages and Frameworks
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
