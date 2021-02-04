@@ -26,11 +26,6 @@ impart positive changes in the society. Coming from the background of embedded p
 <img align="left" alt="bootstrap" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/768px-Bootstrap_logo.svg.png" />
 <img align="left" alt="tailwindcss" width="40px" src="https://pbs.twimg.com/profile_images/1278691829135876097/I4HKOLJw.png" />
 
-<br/>
-<br/>
-
-
-![Myo's github stats](https://github-readme-stats.vercel.app/api?username=aungmcs)
 
 
 
