@@ -5,10 +5,10 @@
 An aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
 impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional software engineer.<br/>
 ## Places you can find me in 🗺: 
-<a>
+<a href='https://twitter.com/aungmcs'>
  <img align='left' width='40px' src='https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png' />
 </a>
-<a>
+<a href='https://linkedin.com/in/amhtet/>
  <img align='left' width='40px' src='https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png' />
 </a>
 
