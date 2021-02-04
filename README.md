@@ -8,7 +8,7 @@ impart positive changes in the society. Coming from the background of embedded p
 <a href='https://twitter.com/aungmcs'>
  <img align='left' width='40px' src='https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png' />
 </a>
-<a href='https://linkedin.com/in/amhtet/>
+<a href='https://linkedin.com/in/amhtet/'>
  <img align='left' width='40px' src='https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png' />
 </a>
 
