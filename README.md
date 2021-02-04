@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Myo 🔥 
 
-<img align='right' src='https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116' />
+<img align='right' width='420px' src='https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116' />
 
 An aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
 impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional software engineer.<br/>
