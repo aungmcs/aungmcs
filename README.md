@@ -1,6 +1,4 @@
-## Hi there 👋 This is Stephen 🔥
-![Cover image](github-readme.png)
-<br/><br/>
+## Hi there 👋 This is Myo 🔥
 An aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
 impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional software engineer.<br/>
 
@@ -25,6 +23,9 @@ impart positive changes in the society. Coming from the background of embedded p
 - Check out my articles at [DEV.to](https://dev.to/aungmcs) ✍
 
 <br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungmcs&show_icons=true)
+
+
 <!--
 **aungmcs/aungmcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
