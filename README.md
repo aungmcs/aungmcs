@@ -1,6 +1,19 @@
-## Hi there 👋 This is Myo 🔥
+## Hi there 👋 This is Myo 🔥 
+
+<img align='right' src='https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116' />
+
 An aspiring developer passionate in tech and a firm believer that ideas incorporated with technology could 
 impart positive changes in the society. Coming from the background of embedded programming and robotics, currently moving ahead in the journey of becoming a professional software engineer.<br/>
+## Places you can find me in 🗺: 
+<a>
+ <img align='left' width='40px' src='https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_twitter-256.png' />
+</a>
+<a>
+ <img align='left' width='40px' src='https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-256.png' />
+</a>
+
+<br/>
+<br/>
 
 ## Languages and Frameworks
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -15,15 +28,10 @@ impart positive changes in the society. Coming from the background of embedded p
 
 <br/>
 <br/>
-<br/>
 
-## Places you can find me in 🗺: 
-- Detailed profile on [LinkedIn](https://linkedin.com/in/aung-myo-htet-stephen-0b1652188) 💼
-- Tweet me [@aungmcs](https://twitter.com/aungmcs) 🔗
-- Check out my articles at [DEV.to](https://dev.to/aungmcs) ✍
 
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungmcs&show_icons=true)
+![Myo's github stats](https://github-readme-stats.vercel.app/api?username=aungmcs)
+
 
 
 <!--
